@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib import pylab as pl
 
 # 定义训练数据
-x = np.array([1,3,2,1,3])
+x = np.array([5,3,2,6,3])
 y = np.array([14,24,18,17,27])
 
 # 回归方程求取函数
